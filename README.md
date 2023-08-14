@@ -24,7 +24,7 @@
   <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
 </tr>
 <tr>
-  <td><img src="https://tuneavideo.github.io/assets/data/man-skiing.gif"></td>
+  <td><img src="./results/v1-5/man-ski.gif"></td>
   <td><img src="./results/v1-5/video1.gif"></td>
   <td><img src="./results/v1-5/video2.gif"></td>              
   <td><img src="./results/v1-5/video3.gif"></td>
