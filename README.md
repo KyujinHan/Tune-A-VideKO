@@ -3,7 +3,7 @@
   <img src="./results/overview.gif" alt="animated"/>
 </p>  
   
-**One-shot video tuning with Korean-Stable Diffusion** [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]([https://huggingface.co/spaces/Tune-A-Video-library/Tune-A-Video-Training-UI](https://huggingface.co/kyujinpy/Tune-A-VideoKO-v1-5/tree/main))
+**One-shot video tuning with Korean-Stable Diffusion** [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]([https://huggingface.co/kyujinpy/Tune-A-VideKO))
 
 # Introduction
 - 한국어 기반 [stable-diffusion](https://arxiv.org/abs/2112.10752)을 활용하여 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)를 접목한 Tune-A-VideKO입니다!
