@@ -16,7 +16,8 @@
 # Inference
 
 # Results
-### Pretrained T2I(tune-a-video-v1-4)
+### Pretrained T2I
+
 <table class="center">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
@@ -24,15 +25,15 @@
 </tr>
 <tr>
   <td><img src="https://tuneavideo.github.io/assets/data/man-skiing.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/spiderman-beach.gif"></td>
+  <td><img src="https://github.com/KyujinHan/Tune-A-VideKO/assets/98331298/c8a0c967-37b3-4454-b747-3b193f640e08"></td>
   <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/wonder-woman.gif"></td>              
   <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/pink-sunset.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man is skiing"</td>
-  <td width=25% style="text-align:center;">"Spider Man is skiing on the beach, cartoon style”</td>
-  <td width=25% style="text-align:center;">"Wonder Woman, wearing a cowboy hat, is skiing"</td>
-  <td width=25% style="text-align:center;">"A man, wearing pink clothes, is skiing at sunset"</td>
+  <td width=25% style="text-align:center;">"미키 마우스가 눈 위에서 스키를 타고 있습니다”</td>
+  <td width=25% style="text-align:center;">"분홍색 옷을 입은 한 남자가 해질녘에 스키를 타고 있습니다"</td>
+  <td width=25% style="text-align:center;">"한 남자가 모래 위에서 스키를 타고 있습니다"</td>
 </tr>
 
 <tr>
