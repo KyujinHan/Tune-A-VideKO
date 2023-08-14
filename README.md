@@ -26,8 +26,8 @@
 <tr>
   <td><img src="https://tuneavideo.github.io/assets/data/man-skiing.gif"></td>
   <td><img src="./results/v1-5/video1.gif"></td>
-  <td><img src=""></td>              
-  <td><img src=""></td>
+  <td><img src="./results/v1-5/video2.gif"></td>              
+  <td><img src="./results/v1-5/video3.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man is skiing"</td>
