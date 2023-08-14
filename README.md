@@ -1,5 +1,5 @@
 # Tune-A-VideKO :video_camera:🇰🇷  
-![tune-a-videko](./results/overview.gif)
+![tune-a-videko](./results/overview.gif)  
 **One-shot video tuning with Korean-Stable Diffusion**
 
 # Introduction
