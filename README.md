@@ -32,7 +32,7 @@
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man is skiing"</td>
   <td width=25% style="text-align:center;">"미키 마우스가 눈 위에서 스키를 타고 있습니다”</td>
-  <td width=25% style="text-align:center;">"분홍색 옷을 입은 한 남자가 해질녘에 스키를 타고 있습니다"</td>
+  <td width=25% style="text-align:center;">"외계인이 보드를 타고 있습니다"</td>
   <td width=25% style="text-align:center;">"한 남자가 모래 위에서 스키를 타고 있습니다"</td>
 </tr>
 
