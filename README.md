@@ -11,7 +11,7 @@
   
 # Setup
 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
-[Pytorch](https://pytorch.org/)==1.12.1
+[Pytorch](https://pytorch.org/)==1.12.1  
 🤗[Diffusers](https://huggingface.co/docs/diffusers/index)  
   
 # Quick Start (Training and Inference Code)  
