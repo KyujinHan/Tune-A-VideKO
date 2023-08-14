@@ -1,4 +1,5 @@
-# Tune-A-VideKO :video_camera:🇰🇷  
+# Tune-A-VideKO :video_camera:![on-fire](https://github.com/KyujinHan/Tune-A-VideKO/assets/98331298/55234b8c-a760-4fc0-908b-725aa7bc1c85)
+
 한국어 기반 One-shot video tuning with Stable Diffusion
 
 # Introduction
