@@ -52,9 +52,9 @@
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A rabbit is eating a watermelon on the table"</td>
-  <td width=25% style="text-align:center;">"고양이가 해변에서 수박을 먹고 있습니다."</td>
-  <td width=25% style="text-align:center;">"강아지가 오렌지를 먹고 있습니"</td>
-  <td width=25% style="text-align:center;">"강아지가 만화 스타일로 상자를 먹고 있습니"</td>
+  <td width=25% style="text-align:center;">"고양이가 해변에서 수박을 먹고 있습니다"</td>
+  <td width=25% style="text-align:center;">"강아지가 오렌지를 먹고 있습니다"</td>
+  <td width=25% style="text-align:center;">"강아지가 만화 스타일로 상자를 먹고 있습니다"</td>
 </tr>
 
 <tr>
