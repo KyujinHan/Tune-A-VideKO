@@ -84,6 +84,6 @@
   
 
 # Acknowledgement
-[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)
-[SD](https://github.com/Stability-AI/stablediffusion)
-[DreamBooth](https://dreambooth.github.io/)
+[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
+[SD](https://github.com/Stability-AI/stablediffusion)  
+[DreamBooth](https://dreambooth.github.io/)  
