@@ -25,7 +25,7 @@
 </tr>
 <tr>
   <td><img src="https://tuneavideo.github.io/assets/data/man-skiing.gif"></td>
-  <td><img src="https://github.com/KyujinHan/Tune-A-VideKO/assets/98331298/c8a0c967-37b3-4454-b747-3b193f640e08"></td>
+  <td><img src="![video1](https://github.com/KyujinHan/Tune-A-VideKO/assets/98331298/f17c1748-15d1-49dc-8078-26a269b3ea3f)"></td>
   <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/wonder-woman.gif"></td>              
   <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/pink-sunset.gif"></td>
 </tr>
