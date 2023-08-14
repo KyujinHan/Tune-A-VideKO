@@ -40,10 +40,10 @@
 </tr>
 
 <tr>
-  <td><img src="https://tuneavideo.github.io/assets/data/rabbit-watermelon.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/rabbit-watermelon/rabbit.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/rabbit-watermelon/cat.gif"></td>              
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/rabbit-watermelon/puppy.gif"></td>
+  <td><img src=""></td>
+  <td><img src=""></td>
+  <td><img src=""></td>           
+  <td><img src=""></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A rabbit is eating a watermelon on the table"</td>
@@ -53,10 +53,10 @@
 </tr>
 
 <tr>
-  <td><img src="https://tuneavideo.github.io/assets/data/car-turn.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/car-turn/porsche-beach.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/car-turn/car-cartoon.gif"></td>              
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/car-turn/car-snow.gif"></td>
+  <td><img src=""></td>
+  <td><img src=""></td>
+  <td><img src=""></td>            
+  <td><img src=""></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
@@ -66,10 +66,10 @@
 </tr>
 
 <tr>
-  <td><img src="https://tuneavideo.github.io/assets/data/man-basketball.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-basketball/bond.gif"></td>
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-basketball/astronaut.gif"></td>              
-  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-basketball/lego.gif"></td>
+  <td><img src=""></td>
+  <td><img src=""></td>
+  <td><img src=""></td>            
+  <td><img src=""></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man is dribbling a basketball"</td>
