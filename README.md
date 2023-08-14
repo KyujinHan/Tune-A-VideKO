@@ -16,5 +16,35 @@
 # Inference
 
 # Results
+### Pretrained T2I(tune-a-video-v1-4)
+<table class="center">
+<tr>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
+</tr>
+<tr>
+  <td><img src="https://tuneavideo.github.io/assets/data/man-skiing.gif"></td>
+  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/spiderman-beach.gif"></td>
+  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/wonder-woman.gif"></td>              
+  <td><img src="https://tuneavideo.github.io/assets/results/tuneavideo/man-skiing/pink-sunset.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"A man is skiing"</td>
+  <td width=25% style="text-align:center;">"Spider Man is skiing on the beach, cartoon style”</td>
+  <td width=25% style="text-align:center;">"Wonder Woman, wearing a cowboy hat, is skiing"</td>
+  <td width=25% style="text-align:center;">"A man, wearing pink clothes, is skiing at sunset"</td>
+</tr>
+  
+### Pretrained T2I(tune-a-video-v1-5)
+
+### Pretrained T2I(tune-a-video-v2-1)
+
+### Pretrained T2I(tune-a-video-v2-1)
+
 
 # Acknowledgement
+[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)
+[SD](https://github.com/Stability-AI/stablediffusion)
+[DreamBooth](https://dreambooth.github.io/)
+
+# TODO
