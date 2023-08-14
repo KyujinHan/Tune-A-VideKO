@@ -1,5 +1,5 @@
 # Tune-A-VideKO :video_camera:🇰🇷  
-![tune-a-videko](https://github.com/KyujinHan/Tune-A-VideKO/assets/98331298/1104f33d-f203-468f-be17-91f39f8d71ff)
+![tune-a-videko](./results/overview.gif)
 **One-shot video tuning with Korean-Stable Diffusion**
 
 # Introduction
