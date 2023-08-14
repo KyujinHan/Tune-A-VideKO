@@ -87,3 +87,4 @@
 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
 [SD](https://github.com/Stability-AI/stablediffusion)  
 [DreamBooth](https://dreambooth.github.io/)  
+[Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)  
