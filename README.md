@@ -25,7 +25,7 @@
 </tr>
 <tr>
   <td><img src="https://tuneavideo.github.io/assets/data/man-skiing.gif"></td>
-  <td><img src=""></td>
+  <td><img src="https://github.com/KyujinHan/Tune-A-VideKO/assets/98331298/226e8d90-7823-4416-91a6-18d694a697eb"></td>
   <td><img src=""></td>              
   <td><img src=""></td>
 </tr>
