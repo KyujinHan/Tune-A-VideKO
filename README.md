@@ -71,16 +71,16 @@
 </tr>
 
 <tr>
-  <td><img src=""></td>
+  <td><img src="./results/v1-5/surfing.gif"></td>
   <td><img src=""></td>
   <td><img src=""></td>            
   <td><img src=""></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A man is dribbling a basketball"</td>
-  <td width=25% style="text-align:center;">"James Bond is dribbling a basketball on the beach"</td>
-  <td width=25% style="text-align:center;">"An astronaut is dribbling a basketball, cartoon style"</td>
-  <td width=25% style="text-align:center;">"A lego man in a black suit is dribbling a basketball"</td>
+  <td width=25% style="text-align:center;color:gray;">"A man is surfing"</td>
+  <td width=25% style="text-align:center;">""</td>
+  <td width=25% style="text-align:center;">""</td>
+  <td width=25% style="text-align:center;">""</td>
 </tr>
 </table>
   
