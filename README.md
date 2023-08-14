@@ -1,6 +1,6 @@
 # Tune-A-VideKO :video_camera:🇰🇷  
-
-한국어 기반 One-shot video tuning with Stable Diffusion
+![tune-a-videko](https://github.com/KyujinHan/Tune-A-VideKO/assets/98331298/1104f33d-f203-468f-be17-91f39f8d71ff)
+**One-shot video tuning with Korean-Stable Diffusion**
 
 # Introduction
 - 한국어 기반 [stable-diffusion](https://arxiv.org/abs/2112.10752)을 활용하여 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)를 접목한 Tune-A-VideKO입니다!
