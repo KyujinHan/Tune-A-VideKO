@@ -1,4 +1,4 @@
-# Tune-A-VideKO :video_camera:
+# Tune-A-VideKO :video_camera:🇰🇷  
 
 한국어 기반 One-shot video tuning with Stable Diffusion
 
