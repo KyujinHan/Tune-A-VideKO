@@ -1,5 +1,5 @@
 # Tune-A-VideKO :video_camera:🇰🇷  
-<img src="./results/overview.gif" width="800" height="600"/>  
+<img src="./results/overview.gif" width="256" height="256"/>  
 **One-shot video tuning with Korean-Stable Diffusion**
 
 # Introduction
