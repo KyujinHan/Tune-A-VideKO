@@ -16,7 +16,7 @@
 # Inference
 
 # Results
-### Pretrained T2I (tune-a-video-v1-5)
+### Pretrained T2I (tune-a-video-v1-5) :baby_chick:  
 
 <table class="center">
 <tr>
@@ -76,9 +76,11 @@
 </tr>
 </table>
   
-### Pretrained T2I(tune-a-video-v2-1)
+### Pretrained T2I (tune-a-video-v2-base) :hatched_chick:  
+
+### Pretrained T2I (tune-a-video-v2-1) :hatching_chick:  
   
-### Pretrained T2I(tune-a-video-dreambooth) (Coming soon...)
+### Pretrained T2I(tune-a-video-dreambooth) :chicken: (Coming soon...)  
   
 
 # Acknowledgement
