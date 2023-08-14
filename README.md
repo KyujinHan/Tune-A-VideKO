@@ -14,7 +14,12 @@
 [Pytorch](https://pytorch.org/)==1.12.1  
 🤗[Diffusers](https://huggingface.co/docs/diffusers/index)  
   
-# Quick Start (Training and Inference Code)  
+# Quick Start
+```python
+(coming soon...)
+```
+  
+# Training and Inference Code
 - (DreamBooth version coming soon...)  
 - **[2023.08.15]**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U7ON76oXw6Glz2BflnshuaOEuJF1A2z9?usp=sharing) 코드로 실행하실 수 있습니다
   
@@ -84,6 +89,8 @@
 ### Pretrained T2I (tune-a-video-v2-1) :hatching_chick:  
   
 ### Pretrained T2I(tune-a-video-dreambooth) :chicken: (Coming soon...)  
+
+# Pre-trained weights
   
 
 # Acknowledgement
