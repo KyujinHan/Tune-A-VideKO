@@ -25,7 +25,7 @@
 </tr>
 <tr>
   <td><img src="https://tuneavideo.github.io/assets/data/man-skiing.gif"></td>
-  <td><img src=""></td>
+  <td><img src="./results/v1-5/video1.gif"></td>
   <td><img src=""></td>              
   <td><img src=""></td>
 </tr>
