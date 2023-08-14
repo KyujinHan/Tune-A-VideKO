@@ -16,7 +16,7 @@
 # Inference
 
 # Results
-### Pretrained T2I
+### Pretrained T2I (tune-a-video-v1-5)
 
 <table class="center">
 <tr>
@@ -75,8 +75,6 @@
   <td width=25% style="text-align:center;">"A lego man in a black suit is dribbling a basketball"</td>
 </tr>
 </table>
-   
-### Pretrained T2I(tune-a-video-v1-5)
   
 ### Pretrained T2I(tune-a-video-v2-1)
   
