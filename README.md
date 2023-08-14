@@ -6,7 +6,7 @@
 - Bingsu님의 [CLIP-VIT](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko/tree/main)를 활용한 [korean-stable-diffusion](https://huggingface.co/Bingsu/my-korean-stable-diffusion-v1-5)에서 감명을 받아 만들게 되었습니다.
   
 # Setup
-[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)
+[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
 [Pytorch](https://pytorch.org/)==1.12.1
 
 # Quick Start
