@@ -65,9 +65,9 @@
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A Porsche car is moving on the beach"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the road, cartoon style"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the snow"</td>
+  <td width=25% style="text-align:center;">"포르쉐 자동차가 해변을 달리고 있습니다"</td>
+  <td width=25% style="text-align:center;">"자동차가 눈 위를 달리고 있습니다"</td>
+  <td width=25% style="text-align:center;">"자동차가 만화 스타일로 도로를 달리고 있습니다"</td>
 </tr>
 
 <tr>
