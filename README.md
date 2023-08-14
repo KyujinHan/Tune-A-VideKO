@@ -59,9 +59,9 @@
 
 <tr>
   <td><img src="./results/v1-5/car.gif"></td>
-  <td><img src=""></td>
-  <td><img src=""></td>            
-  <td><img src=""></td>
+  <td><img src="./results/v1-5/video7.gif"></td>
+  <td><img src="./results/v1-5/video8.gif"></td>            
+  <td><img src="./results/v1-5/video9.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
