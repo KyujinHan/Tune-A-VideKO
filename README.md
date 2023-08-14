@@ -58,7 +58,7 @@
 </tr>
 
 <tr>
-  <td><img src=""></td>
+  <td><img src="./results/v1-5/car.gif"></td>
   <td><img src=""></td>
   <td><img src=""></td>            
   <td><img src=""></td>
