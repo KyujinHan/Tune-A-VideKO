@@ -1,7 +1,8 @@
 # Tune-A-VideKO :video_camera:🇰🇷  
 <p align="center">
-  <img src="./results/overview.gif" alt="animated" width=800 />
-</p>
+  <img src="./results/overview.gif" alt="animated"/>
+</p>  
+  
 **One-shot video tuning with Korean-Stable Diffusion**
 
 # Introduction
