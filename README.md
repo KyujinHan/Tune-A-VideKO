@@ -45,16 +45,16 @@
 </tr>
 
 <tr>
-  <td><img src=""></td>
-  <td><img src=""></td>
-  <td><img src=""></td>           
-  <td><img src=""></td>
+  <td><img src="./results/v1-5/rabbit.gif"></td>
+  <td><img src="./results/v1-5/video4.gif"></td>
+  <td><img src="./results/v1-5/video5.gif"></td>           
+  <td><img src="./results/v1-5/video6.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A rabbit is eating a watermelon on the table"</td>
-  <td width=25% style="text-align:center;">"A rabbit is <del>eating a watermelon</del> on the table"</td>
-  <td width=25% style="text-align:center;">"A cat with sunglasses is eating a watermelon on the beach"</td>
-  <td width=25% style="text-align:center;">"A puppy is eating a cheeseburger on the table, comic style"</td>
+  <td width=25% style="text-align:center;">"선글라스를 쓴 고양이가 해변에서 수박을 먹고 있습니다."</td>
+  <td width=25% style="text-align:center;">"강아지가 오렌지를 먹고 있습니"</td>
+  <td width=25% style="text-align:center;">"강아지가 만화 스타일로 상자를 먹고 있습니"</td>
 </tr>
 
 <tr>
