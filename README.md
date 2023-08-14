@@ -6,8 +6,8 @@
 - Bingsu님의 [CLIP-VIT](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko/tree/main)를 활용한 [korean-stable-diffusion](https://huggingface.co/Bingsu/my-korean-stable-diffusion-v1-5)에서 감명을 받아 만들게 되었습니다.
   
 # Setup
-기존의 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)와 동일하게 수행하면 됩니다.  
-또한 [Pytorch](https://pytorch.org/)==1.12.1를 지원합니다.
+[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)
+[Pytorch](https://pytorch.org/)==1.12.1
 
 # Quick Start
 
