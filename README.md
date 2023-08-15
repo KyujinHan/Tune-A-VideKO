@@ -91,7 +91,7 @@
 
 # TODO
 - [x] Make Colab code
-- [ ] Upload original code
+- [x] Upload original code
 - [ ] Share Tune-A-VideKO-anything
 - [x] Share Tune-A-VideKO-v1-5
 - [ ] Share Tune-A-VideKO-disney
