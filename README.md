@@ -98,6 +98,7 @@
 - [ ] Make pre-trained weights
   
 # Acknowledgement
+[Korean-stable-diffusion](https://github.com/KyujinHan/Korean-stable-diffusion-anything/tree/master)  
 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
 [SD](https://github.com/Stability-AI/stablediffusion)  
 [DreamBooth](https://dreambooth.github.io/)  
