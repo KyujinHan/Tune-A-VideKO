@@ -3,7 +3,7 @@
   <img src="./results/overview.gif" alt="animated"/>
 </p>  
   
-**One-shot video tuning with Korean-Stable Diffusion** [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO)
+**One-shot video tuning with Korean-Stable Diffusion** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5)
 
 # Introduction
 - 한국어 기반 [stable-diffusion](https://arxiv.org/abs/2112.10752)을 활용하여 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)를 접목한 **Tune-A-VideKO**입니다!
@@ -15,10 +15,9 @@
 🤗[Diffusers](https://huggingface.co/docs/diffusers/index)  
   
 # Quick Start
-```python
-(coming soon...)
-```
-  
+- **Rabbit-tune-a-videKO-v1-5**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKYR0Gj2yuHHzDOeDEi1QtYHgfa3VEY4#scrollTo=ACyWIUfcv7iy) 코드로 실행하실 수 있습니다
+> If you want another version, please come my [hugging Face](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5)
+
 # Training and Inference Code
 - (DreamBooth version coming soon...)  
 - **[2023.08.15]**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U7ON76oXw6Glz2BflnshuaOEuJF1A2z9?usp=sharing) 코드로 실행하실 수 있습니다
