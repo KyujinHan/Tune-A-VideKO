@@ -19,7 +19,7 @@
 > If you want another version, please come my [hugging Face](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5)
 
 # Training and Inference Code
-- (Tune-A-VideKO-v2-1 version coming soon...)  
+- (Tune-A-VideKO-anything-v5 version coming soon...)  
 - **[2023.08.15 Tune-A-VideKO-v1-5]**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U7ON76oXw6Glz2BflnshuaOEuJF1A2z9?usp=sharing) 코드로 실행하실 수 있습니다
   
 # Results
@@ -85,7 +85,7 @@
   
 ### Pretrained T2I (tune-a-videKO-v1-4) :hatched_chick:  
 
-### Pretrained T2I (tune-a-videKO-anything) :hatching_chick:  
+### Pretrained T2I (tune-a-videKO-anything-v5) :hatching_chick:  
   
 ### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
 
@@ -94,7 +94,7 @@
 # TODO
 - [x] Make Colab code
 - [ ] Upload original code
-- [ ] Share Tune-A-VideKO-anything
+- [ ] Share Tune-A-VideKO-anything-v5
 - [ ] Share Tune-A-VideKO-v1-4
 - [ ] Share Tune-A-VideKO-disney
 - [ ] Make pre-trained weights
