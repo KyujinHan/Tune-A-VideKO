@@ -15,7 +15,7 @@
 🤗[Diffusers](https://huggingface.co/docs/diffusers/index)  
   
 # Quick Start
-- **Rabbit-tune-a-videKO-v1-5**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKYR0Gj2yuHHzDOeDEi1QtYHgfa3VEY4#scrollTo=ACyWIUfcv7iy) 코드로 실행하실 수 있습니다
+- **Rabbit-tune-a-videKO-v1-5**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKYR0Gj2yuHHzDOeDEi1QtYHgfa3VEY4?usp=sharing) 코드로 실행하실 수 있습니다
 > If you want another version, please come my [hugging Face](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5)
 
 # Training and Inference Code
