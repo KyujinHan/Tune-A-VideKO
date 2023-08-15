@@ -92,7 +92,8 @@
 # Pre-trained weights
 
 # TODO
-- [ ] Share original code
+- [x] Make Colab code
+- [ ] Upload original code
 - [ ] Share Tune-A-Video-v2-base
 - [ ] Share Tune-A-Video-v2-1
 - [ ] Share Tune-A-Video-disney
