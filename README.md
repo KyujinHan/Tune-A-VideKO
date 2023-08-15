@@ -72,15 +72,15 @@
 
 <tr>
   <td><img src="./results/v1-5/surfing.gif"></td>
-  <td><img src=""></td>
-  <td><img src=""></td>            
-  <td><img src=""></td>
+  <td><img src="./results/v1-5/video10.gif"></td>
+  <td><img src="./results/v1-5/video11.gif"></td>            
+  <td><img src="./results/v1-5/video12.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A man is surfing"</td>
-  <td width=25% style="text-align:center;">""</td>
-  <td width=25% style="text-align:center;">""</td>
-  <td width=25% style="text-align:center;">""</td>
+  <td width=25% style="text-align:center;">"미키마우스가 서핑을 타고 있습니다"</td>
+  <td width=25% style="text-align:center;">"한 여자가 서핑을 타고 있습니다"</td>
+  <td width=25% style="text-align:center;">"흰색 옷을 입은 남자가 바다를 걷고 있습니다"</td>
 </tr>
 </table>
   
