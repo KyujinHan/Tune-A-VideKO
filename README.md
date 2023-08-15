@@ -83,10 +83,8 @@
 </tr>
 </table>
   
-### Pretrained T2I (tune-a-videKO-v1-4) :hatched_chick:  
-
 ### Pretrained T2I (tune-a-videKO-anything-v5) :hatching_chick:  
-  
+   
 ### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
 
 # Pre-trained weights
@@ -95,7 +93,7 @@
 - [x] Make Colab code
 - [ ] Upload original code
 - [ ] Share Tune-A-VideKO-anything-v5
-- [ ] Share Tune-A-VideKO-v1-4
+- [x] Share Tune-A-VideKO-v1-5
 - [ ] Share Tune-A-VideKO-disney
 - [ ] Make pre-trained weights
   
