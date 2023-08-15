@@ -83,9 +83,9 @@
 </tr>
 </table>
   
-### Pretrained T2I (tune-a-videKO-v2-base) :hatched_chick:  
+### Pretrained T2I (tune-a-videKO-v1-4) :hatched_chick:  
 
-### Pretrained T2I (tune-a-videKO-v2-1) :hatching_chick:  
+### Pretrained T2I (tune-a-videKO-anything) :hatching_chick:  
   
 ### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
 
@@ -94,8 +94,8 @@
 # TODO
 - [x] Make Colab code
 - [ ] Upload original code
-- [ ] Share Tune-A-VideKO-v2-base
-- [ ] Share Tune-A-VideKO-v2-1
+- [ ] Share Tune-A-VideKO-anything
+- [ ] Share Tune-A-VideKO-v1-4
 - [ ] Share Tune-A-VideKO-disney
 - [ ] Make pre-trained weights
   
