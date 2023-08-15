@@ -103,5 +103,5 @@
 ⭐[Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)  
 [SD](https://github.com/Stability-AI/stablediffusion)  
 [DreamBooth](https://dreambooth.github.io/)  
-[anything](https://huggingface.co/Linaqruf/anything-v3.0/tree/main)   
+[anything](https://huggingface.co/xyn-ai/anything-v4.0)   
 [MO-DI-diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion)  
