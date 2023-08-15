@@ -94,9 +94,9 @@
 # TODO
 - [x] Make Colab code
 - [ ] Upload original code
-- [ ] Share Tune-A-Video-v2-base
-- [ ] Share Tune-A-Video-v2-1
-- [ ] Share Tune-A-Video-disney
+- [ ] Share Tune-A-VideKO-v2-base
+- [ ] Share Tune-A-VideKO-v2-1
+- [ ] Share Tune-A-VideKO-disney
 - [ ] Make pre-trained weights
   
 # Acknowledgement
