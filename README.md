@@ -98,7 +98,7 @@
 - [ ] Make pre-trained weights
   
 # Acknowledgement
-⭐[Korean-stable-diffusion](https://github.com/KyujinHan/Korean-stable-diffusion-anything/tree/master)  
+⭐[KO-stable-diffusion](https://github.com/KyujinHan/KO-stable-diffusion-anything)  
 ⭐[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
 ⭐[Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)  
 [SD](https://github.com/Stability-AI/stablediffusion)  
