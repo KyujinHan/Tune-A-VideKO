@@ -83,7 +83,7 @@
 </tr>
 </table>
   
-### Pretrained T2I (tune-a-videKO-anything-v5) :hatching_chick:  
+### Pretrained T2I (tune-a-videKO-anything) :hatching_chick:  
    
 ### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
 
@@ -92,7 +92,7 @@
 # TODO
 - [x] Make Colab code
 - [ ] Upload original code
-- [ ] Share Tune-A-VideKO-anything-v5
+- [ ] Share Tune-A-VideKO-anything
 - [x] Share Tune-A-VideKO-v1-5
 - [ ] Share Tune-A-VideKO-disney
 - [ ] Make pre-trained weights
@@ -102,3 +102,5 @@
 [SD](https://github.com/Stability-AI/stablediffusion)  
 [DreamBooth](https://dreambooth.github.io/)  
 [Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)  
+[anything](https://huggingface.co/Linaqruf/anything-v3.0/tree/main)   
+[MO-DI-diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion)  
