@@ -23,7 +23,7 @@
 - **[2023.08.15]**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U7ON76oXw6Glz2BflnshuaOEuJF1A2z9?usp=sharing) 코드로 실행하실 수 있습니다
   
 # Results
-### Pretrained T2I (tune-a-video-v1-5) :baby_chick:  
+### Pretrained T2I (tune-a-videKO-v1-5) :baby_chick:  
 
 <table class="center">
 <tr>
@@ -83,11 +83,11 @@
 </tr>
 </table>
   
-### Pretrained T2I (tune-a-video-v2-base) :hatched_chick:  
+### Pretrained T2I (tune-a-videKO-v2-base) :hatched_chick:  
 
-### Pretrained T2I (tune-a-video-v2-1) :hatching_chick:  
+### Pretrained T2I (tune-a-videKO-v2-1) :hatching_chick:  
   
-### Pretrained T2I(tune-a-video-disney) :chicken: (Coming soon...)  
+### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
 
 # Pre-trained weights
 
