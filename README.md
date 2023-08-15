@@ -87,11 +87,17 @@
 
 ### Pretrained T2I (tune-a-video-v2-1) :hatching_chick:  
   
-### Pretrained T2I(tune-a-video-dreambooth) :chicken: (Coming soon...)  
+### Pretrained T2I(tune-a-video-disney) :chicken: (Coming soon...)  
 
 # Pre-trained weights
-  
 
+# TODO
+- [ ] Share original code
+- [ ] Share Tune-A-Video-v2-base
+- [ ] Share Tune-A-Video-v2-1
+- [ ] Share Tune-A-Video-disney
+- [ ] Make pre-trained weights
+  
 # Acknowledgement
 [Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
 [SD](https://github.com/Stability-AI/stablediffusion)  
