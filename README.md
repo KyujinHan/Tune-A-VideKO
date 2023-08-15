@@ -98,10 +98,10 @@
 - [ ] Make pre-trained weights
   
 # Acknowledgement
-[Korean-stable-diffusion](https://github.com/KyujinHan/Korean-stable-diffusion-anything/tree/master)  
-[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
+⭐[Korean-stable-diffusion](https://github.com/KyujinHan/Korean-stable-diffusion-anything/tree/master)  
+⭐[Tune-A-Video](https://github.com/showlab/Tune-A-Video/tree/main)  
+⭐[Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)  
 [SD](https://github.com/Stability-AI/stablediffusion)  
 [DreamBooth](https://dreambooth.github.io/)  
-[Bingsu's CLIP](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko)  
 [anything](https://huggingface.co/Linaqruf/anything-v3.0/tree/main)   
 [MO-DI-diffusion](https://huggingface.co/nitrosocke/mo-di-diffusion)  
