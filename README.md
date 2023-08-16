@@ -5,6 +5,7 @@
   
 **One-shot video tuning with Korean-Stable Diffusion** 
 - Tune-A-VideKO-v1-5(🐇)🥰: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5)
+- Tune-A-VideKO-v1-5(🌊)🥰:  
 - Tune-A-VideKO-anything😍: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO-anything)
 - Tune-A-VideKO-disney🤩:  
   
