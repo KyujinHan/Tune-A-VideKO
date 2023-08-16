@@ -112,16 +112,13 @@ Tune-A-VideKO-disney.ipynb
 
 
 ### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
-
-# Pre-trained weights
-
+  
 # TODO
 - [x] Make Colab code
 - [x] Upload original code
 - [ ] Share Tune-A-VideKO-anything
 - [x] Share Tune-A-VideKO-v1-5
 - [ ] Share Tune-A-VideKO-disney
-- [ ] Make pre-trained weights
   
 # Acknowledgement
 ⭐[KO-stable-diffusion](https://github.com/KyujinHan/KO-stable-diffusion-anything)  
