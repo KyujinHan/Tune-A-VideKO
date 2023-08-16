@@ -107,9 +107,26 @@ Tune-A-VideKO-disney.ipynb
   <td width=25% style="text-align:center;">"1소년, 기타 연주, 잘생김, 앉아있는, 빨간색 기타, 해변"</td>
 </tr>
 </table>
-
-
+  
 ### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
+<table class="center">
+<tr>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
+</tr>
+<tr>
+  <td><img src="./results/disney/piano.gif"></td>
+  <td><img src="./results/disney/video1.gif"></td>
+  <td><img src="./results/disney/video2.gif"></td>              
+  <td><img src="./results/disney/video3.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"A man is playing piano"</td>
+  <td width=25% style="text-align:center;">"”</td>
+  <td width=25% style="text-align:center;">""</td>
+  <td width=25% style="text-align:center;">""</td>
+</tr>
+</table>
   
 # TODO
 - [x] Make Colab code
