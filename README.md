@@ -18,9 +18,10 @@
 🤗[Diffusers](https://huggingface.co/docs/diffusers/index)  
   
 # Quick Start
-- **Rabbit-tune-a-videKO-v1-5**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKYR0Gj2yuHHzDOeDEi1QtYHgfa3VEY4?usp=sharing) 코드로 실행하실 수 있습니다
-> If you want another version, please come my [hugging Face](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5)
-
+- **🐇Rabbit-Tune-A-VideKO-v1-5**: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5) 코드로 실행하실 수 있습니다
+- **😍Tune-A-VideKO-anything**:
+- **🤩Tune-A-VideKO-disney**:  
+  
 # Training and Inference Code
 - (Tune-A-VideKO-anything-v5 version coming soon...)  
 - **[2023.08.15 Tune-A-VideKO-v1-5]**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U7ON76oXw6Glz2BflnshuaOEuJF1A2z9?usp=sharing) 코드로 실행하실 수 있습니다
