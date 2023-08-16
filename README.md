@@ -84,7 +84,26 @@
 </table>
   
 ### Pretrained T2I (tune-a-videKO-anything) :hatching_chick:  
-   
+<table class="center">
+<tr>
+  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
+</tr>
+<tr>
+  <td><img src="./results/anything/bear.gif"></td>
+  <td><img src="./results/anything/video1.gif"></td>
+  <td><img src="./results/anything/video2.gif"></td>              
+  <td><img src="./results/anything/video3.gif"></td>
+</tr>
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"A bear is playing guitar"</td>
+  <td width=25% style="text-align:center;">"1소녀는 기타를 연주하고 있다, 흰 머리, 중간 머리, 고양이 귀, 닫힌 눈, 귀여운, 스카프, 재킷, 야외, 거리, 소녀”</td>
+  <td width=25% style="text-align:center;">""</td>
+  <td width=25% style="text-align:center;">""</td>
+</tr>
+</table>
+
+
 ### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
 
 # Pre-trained weights
