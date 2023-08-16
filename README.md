@@ -100,8 +100,8 @@
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A bear is playing guitar"</td>
-  <td width=25% style="text-align:center;">"1소녀는 기타를 연주하고 있다, 흰 머리, 중간 머리, 고양이 귀, 닫힌 눈, 귀여운, 스카프, 재킷, 야외, 거리, 소녀”</td>
-  <td width=25% style="text-align:center;">""</td>
+  <td width=25% style="text-align:center;">"1소녀는 기타를 연주하고 있다, 흰 머리, 중간 머리, 고양이 귀, 귀여운, 스카프, 재킷, 야외, 거리, 소녀”</td>
+  <td width=25% style="text-align:center;">"1소녀가 기타 연주를 하고 있습니다, 바다, 눈을 감음, 긴 머리, 카리스마"</td>
   <td width=25% style="text-align:center;">""</td>
 </tr>
 </table>
