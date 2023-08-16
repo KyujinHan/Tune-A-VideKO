@@ -18,16 +18,12 @@
 [Pytorch](https://pytorch.org/)==1.12.1  
 🤗[Diffusers](https://huggingface.co/docs/diffusers/index)  
   
-# Quick Start
+# Quick Start (training and inference code)
 ```
 Tune-A-VideKO.ipynb # Tune-A-VideKO-v1-5
 Tune-A-VideKO-anyhthing.ipynb
 Tune-A-VideKO-disney.ipynb 
 ```
-   
-# Training and Inference Code
-- (Tune-A-VideKO-anything-v5 version coming soon...)  
-- **[2023.08.15 Tune-A-VideKO-v1-5]**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U7ON76oXw6Glz2BflnshuaOEuJF1A2z9?usp=sharing) 코드로 실행하실 수 있습니다
   
 # Results
 ### Pretrained T2I (tune-a-videKO-v1-5) :baby_chick:  
