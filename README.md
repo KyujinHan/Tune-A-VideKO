@@ -117,6 +117,7 @@ Tune-A-VideKO-disney.ipynb
 - [ ] Share Tune-A-VideKO-anything
 - [x] Share Tune-A-VideKO-v1-5
 - [ ] Share Tune-A-VideKO-disney
+- [ ] Share Tune-A-Surfing
   
 # Acknowledgement
 ⭐[KO-stable-diffusion](https://github.com/KyujinHan/KO-stable-diffusion-anything)  
