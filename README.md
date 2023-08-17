@@ -130,9 +130,9 @@ Tune-A-VideKO-anyhthing.ipynb # Quick_start Tune-A-VideKO-anything
 # TODO
 - [x] Make Colab code
 - [x] Upload original code
-- [ ] Share Tune-A-VideKO-anything
-- [x] Share Tune-A-VideKO-v1-5
-- [ ] Share Tune-A-VideKO-disney
+- [x] Share Tune-A-VideKO-anything
+- [ ] Share Tune-A-VideKO-v1-5
+- [x] Share Tune-A-VideKO-disney
   
 # Acknowledgement
 ⭐[KO-stable-diffusion](https://github.com/KyujinHan/KO-stable-diffusion-anything)  
