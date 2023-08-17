@@ -114,13 +114,13 @@ Tune-A-VideKO-disney.ipynb
   <td style="text-align:center;" colspan="3"><b>Output Video</b></td>
 </tr>
 <tr>
-  <td><img src="./results/disney/piano.gif"></td>
+  <td><img src="./results/anything/bear.gif"></td>
   <td><img src="./results/disney/video1.gif"></td>
   <td><img src="./results/disney/video2.gif"></td>              
   <td><img src="./results/disney/video3.gif"></td>
 </tr>
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A man is playing piano"</td>
+  <td width=25% style="text-align:center;color:gray;">"A bear is playing guitar"</td>
   <td width=25% style="text-align:center;">"”</td>
   <td width=25% style="text-align:center;">""</td>
   <td width=25% style="text-align:center;">""</td>
