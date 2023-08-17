@@ -121,9 +121,9 @@ Tune-A-VideKO-disney.ipynb
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A bear is playing guitar"</td>
-  <td width=25% style="text-align:center;">"”</td>
-  <td width=25% style="text-align:center;">""</td>
-  <td width=25% style="text-align:center;">""</td>
+  <td width=25% style="text-align:center;">"토끼가 기타를 치고 있습니다, 모던한 디즈니 스타일”</td>
+  <td width=25% style="text-align:center;">"잘생긴 왕자가 기타를 치고 있습니다, 모던한 디즈니 스타일"</td>
+  <td width=25% style="text-align:center;">"사자가 기타를 치고 있습니다, 모던한 디즈니 스타일"</td>
 </tr>
 </table>
   
