@@ -23,8 +23,9 @@ Tune-A-VideKO.ipynb # Tune-A-VideKO-v1-5
 Tune-A-VideKO-anyhthing.ipynb
 Tune-A-VideKO-disney.ipynb 
 ```
-- Quick_Rabbit🐇: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKYR0Gj2yuHHzDOeDEi1QtYHgfa3VEY4?usp=sharing)
-- Quick_disney🤩:
+- Quick_Rabbit🐇: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKYR0Gj2yuHHzDOeDEi1QtYHgfa3VEY4?usp=sharing)  
+- Quick_disney🤩: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13u1TyN_-eGxGvMaNW9rM03GDpUq0Lfpi?usp=sharing)  
+- Quick anything:
     
 # Results
 ### Pretrained T2I (tune-a-videKO-v1-5) :baby_chick:  
