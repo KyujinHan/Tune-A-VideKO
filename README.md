@@ -107,7 +107,7 @@ Tune-A-VideKO-disney.ipynb
 </tr>
 </table>
   
-### Pretrained T2I(tune-a-videKO-disney) :chicken: (Coming soon...)  
+### Pretrained T2I(tune-a-videKO-disney) :chicken:
 <table class="center">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
