@@ -131,7 +131,7 @@ Tune-A-VideKO-anyhthing.ipynb # Quick_start Tune-A-VideKO-anything
 - [x] Make Colab code
 - [x] Upload original code
 - [x] Share Tune-A-VideKO-anything
-- [ ] Share Tune-A-VideKO-v1-5
+- [x] Share Tune-A-VideKO-v1-5
 - [x] Share Tune-A-VideKO-disney
   
 # Acknowledgement
