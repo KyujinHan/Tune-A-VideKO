@@ -4,7 +4,7 @@
 </p>  
   
 **One-shot video tuning with Korean-Stable Diffusion** 
-- Tune-A-VideKO-v1-5(🐇)🥰: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO-v1-5)
+- Tune-A-VideKO-v1-5(🏄)🥰: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()
 - Tune-A-VideKO-anything😍: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO-anything)
 - Tune-A-VideKO-disney🤩: [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/kyujinpy/Tune-A-VideKO-disney)  
   
@@ -22,7 +22,7 @@
 Tune-A-VideKO.ipynb # Tune-A-VideKO-v1-5
 Tune-A-VideKO-anyhthing.ipynb # Quick_start Tune-A-VideKO-anything
 ```
-- Quick_Rabbit🐇: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TKYR0Gj2yuHHzDOeDEi1QtYHgfa3VEY4?usp=sharing)  
+- Quick_surfing🏄: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
 - Quick_disney🤩: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13u1TyN_-eGxGvMaNW9rM03GDpUq0Lfpi?usp=sharing)  
 - Quick anything😍: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n7JgldM3I6ZbQIyQy_U6MmOV_zG0tU3q?usp=sharing)    
     
